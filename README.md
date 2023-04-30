@@ -16,7 +16,7 @@ This readme is written in *markdown*.
 - Kotlin
 - JavaScript
 
-Workflow:
+### Workflow
 
 - GitHub 
 - Scrum
