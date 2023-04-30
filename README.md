@@ -12,7 +12,7 @@ This readme is written in *markdown*.
 
 - Java
 - Kotlin
-- Python
+- JavaScript
 
 ---
 
