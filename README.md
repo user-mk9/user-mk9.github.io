@@ -12,7 +12,7 @@ This readme is written in *markdown*.
 
 ### Main Programming Languages
 
-- Java [![Language](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
+- Java [![Language](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
 - Kotlin
 - JavaScript
 
